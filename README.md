@@ -29,8 +29,13 @@ The final deliverable is a PyTorch-based segmentation model achieving solid perf
 │   └── test/                              # Test samples (currently empty)
 │
 ├── Incorrect_Sample_List.csv              # Samples flagged as misclassified in the dataset
-├── best_segmentation_model.pth            # Best-performing trained model checkpoint
+│
+├── best_segmentation_model.pth            # Best-performing trained model 
+│
 ├── Project_Documentation.pdf              # Complete documentation
+│
 ├── Project_Presentation.pptx              # Presentation slides
+│
 ├── Project_Work_Training.ipynb            # Training notebook (5-fold CV, 20 epochs example)
+│
 └── Project_Work_Testing.ipynb             # Testing notebook
