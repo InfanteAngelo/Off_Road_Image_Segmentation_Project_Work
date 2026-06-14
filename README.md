@@ -1,4 +1,4 @@
-# Off-Road Autonomous Driving: Semantic Segmentation Project
+# Off-Road Image Segmentation Project
 
 This repository contains the implementation of a complete semantic segmentation pipeline designed to classify off-road terrain features. The project focuses on identifying drivable paths, vegetation types, sky, and obstacles in complex outdoor environments to support autonomous ground vehicle navigation.
 
